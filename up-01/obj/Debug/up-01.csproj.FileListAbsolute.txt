@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\up-01\bin\Debug\up-01.exe.config
+C:\Users\User\source\repos\up-01\bin\Debug\up-01.exe
+C:\Users\User\source\repos\up-01\bin\Debug\up-01.pdb
+C:\Users\User\source\repos\up-01\obj\Debug\up-01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\up-01\obj\Debug\up-01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\up-01\obj\Debug\up-01.exe
+C:\Users\User\source\repos\up-01\obj\Debug\up-01.pdb

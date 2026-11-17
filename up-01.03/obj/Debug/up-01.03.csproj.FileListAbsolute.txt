@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\up-01.03\obj\Debug\up-01.03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\up-01.03\obj\Debug\up-01.03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\up-01.03\bin\Debug\up-01.03.dll
+C:\Users\User\source\repos\up-01.03\bin\Debug\up-01.03.pdb
+C:\Users\User\source\repos\up-01.03\obj\Debug\up-01.03.dll
+C:\Users\User\source\repos\up-01.03\obj\Debug\up-01.03.pdb
